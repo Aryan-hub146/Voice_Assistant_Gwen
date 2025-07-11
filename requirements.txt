@@ -1,0 +1,14 @@
+pvporcupine
+pyaudio
+pyttsx3
+speechrecognition
+
+
+# === Settings ===
+picovoice--
+ACCESS_KEY = "8hWTmdQehf7pif1T3dfbXelKluS/tIVDCZAijNOu9B22m6FcIKWI2w=="
+WAKE_WORD_PATH = "hey-Gwen_en_windows_v3_0_0.ppn"
+
+Elevenlabs---
+ELEVEN_API_KEY = "sk_654f711d85fae6dab6593f9cb1f0d5bed1639be12639ad6c"
+VOICE_ID = "Vara1IkEw7vh5Hr5dT3C"
